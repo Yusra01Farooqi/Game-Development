@@ -197,7 +197,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerLives: 6
   score: 0
-  scoreText: {fileID: 0}
+  scoreText: {fileID: 8347922312921259994}
   numOfHearts: 6
   hearts:
   - {fileID: 2020859901157583510}
