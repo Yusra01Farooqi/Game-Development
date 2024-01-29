@@ -440,7 +440,7 @@ GameObject:
   - component: {fileID: 466405656}
   m_Layer: 0
   m_Name: Boss
-  m_TagString: Untagged
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9896,29 +9896,11 @@ Transform:
   - {fileID: 342073856}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1148048949 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 931045729748846156, guid: 842dec1710e2a3649a23dfb9b9be08fb, type: 3}
-  m_PrefabInstance: {fileID: 1626799405}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1148048950 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4106380496757798850, guid: 842dec1710e2a3649a23dfb9b9be08fb, type: 3}
   m_PrefabInstance: {fileID: 1626799405}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1148048955
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1148048949}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6f4e2dbf6f440e4ba034ef428bea5bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  aiPath: {fileID: 466405653}
 --- !u!1 &1286562499
 GameObject:
   m_ObjectHideFlags: 0
@@ -11550,13 +11532,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8703528334764820699, guid: 842dec1710e2a3649a23dfb9b9be08fb, type: 3}
+      propertyPath: aiPath
+      value: 
+      objectReference: {fileID: 466405653}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 931045729748846156, guid: 842dec1710e2a3649a23dfb9b9be08fb, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1148048955}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 842dec1710e2a3649a23dfb9b9be08fb, type: 3}
 --- !u!1 &1662762744
 GameObject:
@@ -11602,7 +11585,7 @@ MonoBehaviour:
   manualDebugFloorRoof: 0
   showSearchTree: 0
   unwalkableNodeDebugSize: 0.3
-  logPathResults: 1
+  logPathResults: 0
   maxNearestNodeDistance: 100
   scanOnStartup: 1
   fullGetNearestSearch: 0
@@ -11621,7 +11604,7 @@ MonoBehaviour:
   heuristic: 2
   heuristicScale: 1
   threadCount: 1
-  maxFrameTime: 1
+  maxFrameTime: 10
   batchGraphUpdates: 0
   graphUpdateBatchingInterval: 0.2
   euclideanEmbedding:

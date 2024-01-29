@@ -8,7 +8,7 @@ public class Bullet : MonoBehaviour
     Rigidbody2D myRigidbody;
     PlayerMovement player;
     float xSpeed;
-    
+
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
@@ -18,21 +18,28 @@ public class Bullet : MonoBehaviour
 
     void Update()
     {
-        myRigidbody.velocity = new Vector2 (xSpeed, 0f);
+        myRigidbody.velocity = new Vector2(xSpeed, 0f);
     }
 
-    void OnTriggerEnter2D(Collider2D other) 
+    void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.tag == "Enemy")
+        if (other.tag == "Enemy")
         {
             Destroy(other.gameObject);
         }
         Destroy(gameObject);
+
+        if (other.tag == "Boss")
+        {
+            other.GetComponent<EnemyBoss>().TakeDamage(25);
+            
+
+        }
     }
 
-    void OnCollisionEnter2D(Collision2D other) 
+    void OnCollisionEnter2D(Collision2D other)
     {
-        Destroy(gameObject);    
+        Destroy(gameObject);
     }
 
 }

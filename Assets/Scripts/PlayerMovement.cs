@@ -49,7 +49,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (!isAlive) { return; }
         moveInput = value.Get<Vector2>();
-        Debug.Log(moveInput);
+        // Debug.Log(moveInput);
     }
 
     void OnJump(InputValue value)
@@ -107,7 +107,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Die()
     {
-        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemies", "Hazards","Saw")))
+        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemies", "Hazards", "Saw")))
         {
             isAlive = false;
             myAnimator.SetTrigger("Dying");
