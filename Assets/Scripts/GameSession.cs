@@ -9,7 +9,6 @@ public class GameSession : MonoBehaviour
 {
     [SerializeField] int playerLives = 3;
     [SerializeField] int score = 0;
-
     [SerializeField] TextMeshProUGUI scoreText;
     public int numOfHearts;
     public UnityEngine.UI.Image[] hearts;
@@ -22,7 +21,6 @@ public class GameSession : MonoBehaviour
     }
     void Update() // UI hearts update 
     {
-
         // if (playerLives > numOfHearts)
         // {
         //     playerLives = numOfHearts;
@@ -87,6 +85,7 @@ public class GameSession : MonoBehaviour
         playerLives--;
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex);
+
 
     }
 

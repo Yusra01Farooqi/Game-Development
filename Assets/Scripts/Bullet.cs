@@ -33,7 +33,6 @@ public class Bullet : MonoBehaviour
         {
             other.GetComponent<EnemyBoss>().TakeDamage(25);
 
-
         }
     }
 
