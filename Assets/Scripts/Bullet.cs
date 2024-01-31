@@ -8,7 +8,7 @@ public class Bullet : MonoBehaviour
     Rigidbody2D myRigidbody;
     PlayerMovement player;
     float xSpeed;
-
+    
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
@@ -32,7 +32,7 @@ public class Bullet : MonoBehaviour
         if (other.tag == "Boss")
         {
             other.GetComponent<EnemyBoss>().TakeDamage(25);
-            
+
 
         }
     }

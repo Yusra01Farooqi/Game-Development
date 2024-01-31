@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 3841219893267440274}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.531521, y: 8.699653, z: -10.102248}
+  m_LocalPosition: {x: -15.39152, y: 1.4596524, z: -10.102248}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -56,7 +56,7 @@ MonoBehaviour:
   m_Follow: {fileID: 0}
   m_Lens:
     FieldOfView: 60
-    OrthographicSize: 5
+    OrthographicSize: 4
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -117,7 +117,7 @@ Transform:
   m_GameObject: {fileID: 4503541155578978773}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.531521, y: 8.699653, z: -10.102248}
+  m_LocalPosition: {x: -15.39152, y: 1.4596524, z: -10.102248}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Follow: {fileID: 0}
   m_Lens:
     FieldOfView: 60
-    OrthographicSize: 10
+    OrthographicSize: 7
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -473,7 +473,7 @@ Transform:
   m_GameObject: {fileID: 6359167138994156249}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -18.59551, y: 3.5341206, z: -10.102248}
+  m_LocalPosition: {x: -9.905386, y: 1.3490114, z: -10.102248}
   m_LocalScale: {x: 0, y: 0.6695771, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -514,7 +514,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 7
+  orthographic size: 4
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -773,7 +773,15 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
   m_CustomBlends: {fileID: 11400000, guid: b0deb3ab1e8ac3849b59d892729070f0, type: 2}
-  m_ParentHash: []
+  m_ParentHash:
+  - m_Hash: 2143319015
+    m_ParentHash: 756556552
+  - m_Hash: 256545655
+    m_ParentHash: 756556552
+  - m_Hash: -725336713
+    m_ParentHash: 756556552
+  - m_Hash: -1546996312
+    m_ParentHash: 756556552
 --- !u!1 &8938425564015672686
 GameObject:
   m_ObjectHideFlags: 0
@@ -801,7 +809,7 @@ Transform:
   m_GameObject: {fileID: 8938425564015672686}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.531521, y: 8.699653, z: -10.102248}
+  m_LocalPosition: {x: -15.39152, y: 1.4596524, z: -10.102248}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -830,7 +838,7 @@ MonoBehaviour:
   m_Follow: {fileID: 0}
   m_Lens:
     FieldOfView: 60
-    OrthographicSize: 7
+    OrthographicSize: 6
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
