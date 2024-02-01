@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] Vector2 deathKick = new Vector2(10f, 10f);
     [SerializeField] GameObject bullet;
     [SerializeField] Transform gun;
-
+    [SerializeField] private AudioSource jumpSoundEffect;
 
     // Start is called before the first frame update
     Vector2 moveInput;
@@ -52,7 +52,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (!isAlive) { return; }
         moveInput = value.Get<Vector2>();
-        Debug.Log(moveInput);
+        // Debug.Log(moveInput);
     }
 
     void OnJump(InputValue value)
@@ -66,6 +66,7 @@ public class PlayerMovement : MonoBehaviour
         if (value.isPressed)
         {
             // do stuff
+            jumpSoundEffect.Play();
             myRigidbody.velocity += new Vector2(0f, jumpSpeed);
         }
     }
@@ -110,7 +111,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Die()
     {
-        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemies", "Hazards","Saw")))
+        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemies", "Hazards", "Saw")))
         {
             isAlive = false;
             myAnimator.SetTrigger("Dying");
