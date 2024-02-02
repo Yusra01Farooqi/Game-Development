@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using TMPro;
+using Unity.VisualScripting;
 public class GameSession : MonoBehaviour
 {
     [SerializeField] int playerLives = 3;
@@ -14,6 +15,7 @@ public class GameSession : MonoBehaviour
     public UnityEngine.UI.Image[] hearts;
     public Sprite fullHeart;
     public Sprite emptyHeart;
+    //public GameOver gameOver;
 
     void Start()
     {
@@ -91,8 +93,18 @@ public class GameSession : MonoBehaviour
 
     void ResetGameSession()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(7);
         Destroy(gameObject);
         FindObjectOfType<ScenePersist>().ResetScenePersist();
+    }
+
+    void Restart()
+    {
+        Destroy(gameObject);
+        FindObjectOfType<ScenePersist>().ResetScenePersist();
+    }
+
+    void Quit(){
+        
     }
 }
