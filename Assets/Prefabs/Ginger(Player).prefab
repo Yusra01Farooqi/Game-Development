@@ -130,8 +130,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1579803117
-  m_SortingLayer: 10
+  m_SortingLayerID: 289879713
+  m_SortingLayer: 12
   m_SortingOrder: 0
   m_Sprite: {fileID: -572325563, guid: 0e2cf9b4c59bf6746bf1cd47f3ccaab6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -251,7 +251,7 @@ MonoBehaviour:
   runSpeed: 7
   jumpSpeed: 20
   climbSpeed: 5
-  deathKick: {x: 30, y: 30}
+  deathKick: {x: 20, y: 20}
   bullet: {fileID: 355721853787770758, guid: 4e5e9b57b6c250a4e986c796aca91f7c, type: 3}
   gun: {fileID: 8000065352218817111}
   jumpSoundEffect: {fileID: 1113712540750490644}

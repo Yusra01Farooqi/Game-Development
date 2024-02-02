@@ -185,6 +185,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.6991482
@@ -246,6 +250,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -314,6 +322,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.4286594
@@ -375,6 +387,14 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -0.41
       objectReference: {fileID: 0}
+    - target: {fileID: 1638281168651102151, guid: 1cb6167d3d128d54fa32b1a7d1318e1d, type: 3}
+      propertyPath: m_SortingLayer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638281168651102151, guid: 1cb6167d3d128d54fa32b1a7d1318e1d, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -430819315
+      objectReference: {fileID: 0}
     - target: {fileID: 2735569128329392524, guid: 1cb6167d3d128d54fa32b1a7d1318e1d, type: 3}
       propertyPath: m_LocalPosition.x
       value: -22.322
@@ -435,6 +455,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -709,6 +733,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 39.94866
@@ -771,6 +799,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 17.95866
@@ -832,6 +864,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -948,6 +984,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 38.732143
@@ -1004,6 +1044,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1067,6 +1111,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 37.562145
@@ -1121,7 +1169,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 449265055}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Enemies
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1352,6 +1400,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.1068907
@@ -1413,6 +1465,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1604,6 +1660,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.420784
@@ -1793,8 +1853,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 669793159
-  m_SortingLayer: 5
+  m_SortingLayerID: 1788873551
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -2143,6 +2203,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 37.552143
@@ -2199,6 +2263,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2334,8 +2402,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1600992261
-  m_SortingLayer: 3
+  m_SortingLayerID: -310280451
+  m_SortingLayer: 11
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.016129017, y: 0.016129017, z: 0}
@@ -12021,6 +12089,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 36.462147
@@ -12077,6 +12149,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12150,6 +12226,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 38.772144
@@ -12212,6 +12292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 35.252148
@@ -12268,6 +12352,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12385,7 +12473,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1159146183
-  m_SortingLayer: 2
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 09b18b2dac48ea94a86e911ea947eb20, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -12409,6 +12497,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12472,6 +12564,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 34.07866
@@ -12533,6 +12629,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12764,8 +12864,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1600992261
-  m_SortingLayer: 3
+  m_SortingLayerID: -81240075
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -13004,8 +13104,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1948830357
-  m_SortingLayer: 1
+  m_SortingLayerID: 1731813291
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.016129017, y: 0.016129017, z: 0}
@@ -13272,6 +13372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 35.252148
@@ -13369,6 +13473,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13521,6 +13629,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 37.80866
@@ -13667,6 +13779,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -16.019636
@@ -13723,6 +13839,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13781,6 +13901,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.4677086
@@ -13837,6 +13961,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13899,6 +14027,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13995,7 +14127,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1725798929}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Diamonds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14074,6 +14206,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14201,8 +14337,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1159146183
-  m_SortingLayer: 2
+  m_SortingLayerID: 91238053
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -14352,6 +14488,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15.991342
@@ -14414,6 +14554,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 38.732143
@@ -14470,6 +14614,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14561,6 +14709,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14792,8 +14944,8 @@ TilemapRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1613862293
-  m_SortingLayer: 4
+  m_SortingLayerID: -81240075
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -15171,6 +15323,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 34.042145
@@ -15312,6 +15468,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 35.222145
@@ -15383,6 +15543,10 @@ PrefabInstance:
     - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_Name
       value: Diamond (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15472,6 +15636,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Diamond (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 870312656581102228, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 1574657754342246482, guid: df2011ca6677fbe43a67176cae98ad8e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 38.772144
@@ -15525,6 +15693,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 449265055}
     m_Modifications:
+    - target: {fileID: 1638281168651102151, guid: 1cb6167d3d128d54fa32b1a7d1318e1d, type: 3}
+      propertyPath: m_SortingLayer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638281168651102151, guid: 1cb6167d3d128d54fa32b1a7d1318e1d, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -430819315
+      objectReference: {fileID: 0}
     - target: {fileID: 2735569128329392524, guid: 1cb6167d3d128d54fa32b1a7d1318e1d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.376799
@@ -15633,6 +15809,14 @@ PrefabInstance:
     - target: {fileID: 5074666334062420106, guid: 01f3dec26f053ec4f81dddfc228713e9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7786396943968362629, guid: 01f3dec26f053ec4f81dddfc228713e9, type: 3}
+      propertyPath: m_SortingLayer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7786396943968362629, guid: 01f3dec26f053ec4f81dddfc228713e9, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -81240075
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15750,6 +15934,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3167642440019557438, guid: bfef59fb6a7e42c4791ba3ab7e169019, type: 3}
+      propertyPath: m_SortingLayer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3167642440019557438, guid: bfef59fb6a7e42c4791ba3ab7e169019, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 289879713
+      objectReference: {fileID: 0}
+    - target: {fileID: 5222652995592476943, guid: bfef59fb6a7e42c4791ba3ab7e169019, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7758506341394974831, guid: bfef59fb6a7e42c4791ba3ab7e169019, type: 3}
       propertyPath: m_Name
       value: Player
@@ -15833,7 +16029,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8286222920113215598, guid: a55b6a069836ad24d8e65431f88b7bff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -20.150003
+      value: -19.263613
       objectReference: {fileID: 0}
     - target: {fileID: 8286222920113215598, guid: a55b6a069836ad24d8e65431f88b7bff, type: 3}
       propertyPath: m_LocalPosition.y
@@ -15989,18 +16185,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3891429271238858973, guid: 0642b526e9df1fc4b96ae9cc54f3fc7a, type: 3}
-      propertyPath: m_Color.b
-      value: 0.9245283
-      objectReference: {fileID: 0}
-    - target: {fileID: 3891429271238858973, guid: 0642b526e9df1fc4b96ae9cc54f3fc7a, type: 3}
-      propertyPath: m_Color.g
-      value: 0.8272307
-      objectReference: {fileID: 0}
-    - target: {fileID: 3891429271238858973, guid: 0642b526e9df1fc4b96ae9cc54f3fc7a, type: 3}
-      propertyPath: m_Color.r
-      value: 0.6759523
-      objectReference: {fileID: 0}
     - target: {fileID: 5249711107139567824, guid: 0642b526e9df1fc4b96ae9cc54f3fc7a, type: 3}
       propertyPath: m_Name
       value: Enemy
@@ -16057,6 +16241,14 @@ PrefabInstance:
     - target: {fileID: 1886898418772506648, guid: b69f1846190bb07499ce3417d09198c7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954412513836713656, guid: b69f1846190bb07499ce3417d09198c7, type: 3}
+      propertyPath: m_SortingLayer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1954412513836713656, guid: b69f1846190bb07499ce3417d09198c7, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -430819315
       objectReference: {fileID: 0}
     - target: {fileID: 8959811378186871265, guid: b69f1846190bb07499ce3417d09198c7, type: 3}
       propertyPath: m_Name
