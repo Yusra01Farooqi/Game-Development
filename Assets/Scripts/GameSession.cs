@@ -9,7 +9,7 @@ using Unity.VisualScripting;
 public class GameSession : MonoBehaviour
 {
     [SerializeField] int playerLives = 3;
-    [SerializeField] int score = 0;
+    public static int score = 0;
     [SerializeField] TextMeshProUGUI scoreText;
     public int numOfHearts;
     public UnityEngine.UI.Image[] hearts;
@@ -74,7 +74,7 @@ public class GameSession : MonoBehaviour
     {
         if (playerLives > 1)
         {
-            TakeLife();
+            StartCoroutine(Takelife());
         }
         else
         {
@@ -82,29 +82,38 @@ public class GameSession : MonoBehaviour
         }
     }
 
-    void TakeLife()
+    IEnumerator Takelife()
     {
+        yield return new WaitForSecondsRealtime(0.3f);
         playerLives--;
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex);
-
-
     }
+    // void TakeLife()
+    // {
 
-    void ResetGameSession()
+    //     playerLives--;
+    //     int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+    //     SceneManager.LoadScene(currentSceneIndex);
+
+
+    // }
+
+    public void ResetGameSession()
     {
+        FindObjectOfType<ScenePersist>().ResetScenePersist();
         SceneManager.LoadScene(7);
         Destroy(gameObject);
-        FindObjectOfType<ScenePersist>().ResetScenePersist();
-    }
-
-    void Restart()
-    {
-        Destroy(gameObject);
-        FindObjectOfType<ScenePersist>().ResetScenePersist();
-    }
-
-    void Quit(){
-        
     }
 }
+//     void Restart()
+//     {
+//         Destroy(gameObject);
+//         FindObjectOfType<ScenePersist>().ResetScenePersist();
+//     }
+
+//     void Quit()
+//     {
+
+//     }
+// }

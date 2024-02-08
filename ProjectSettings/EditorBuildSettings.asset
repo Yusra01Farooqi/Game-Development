@@ -29,5 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/GameOver.unity
     guid: f4c631394a80e411a88d3a115b9e69d9
+  - enabled: 1
+    path: Assets/Levels/End Animation.unity
+    guid: 2e9e700607210c64c880e18dfbf26465
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: d8f5422c0a4a79245b05757f47780df9, type: 2}
