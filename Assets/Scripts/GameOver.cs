@@ -3,15 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameOver : MonoBehaviour
 {
 
-    public void Setup()
+    public void Restart()
     {
-        // gameObject.SetActive(true);
-        // Destroy(gameObject);
-        // FindObjectOfType<ScenePersist>().ResetScenePersist();
+        SceneManager.LoadScene(2);
+    }
 
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }

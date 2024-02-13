@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -17,13 +18,13 @@ TagManager:
   - Player
   - Platform
   - Bounsing
-  - Enemoies
+  - Enemies
   - Hazards
   - Bulltes
   - Interactables
   - Platforms
   - Saw
-  - 
+  - Background
   - 
   - 
   - 
